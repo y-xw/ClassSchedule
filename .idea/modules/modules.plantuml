@@ -1,0 +1,883 @@
+@startuml
+
+title __CLASSSCHEDULE-MASTER's Class Diagram__\n
+
+  namespace  {
+    class JetGradlePlugin {
+    }
+  }
+  
+
+  namespace  {
+    class JetGradlePlugin {
+    }
+  }
+  
+
+  namespace  {
+    class JetGradlePlugin {
+    }
+  }
+  
+
+  namespace  {
+    class JetGradlePlugin {
+    }
+  }
+  
+
+  namespace  {
+    class RegistryProcessor {
+    }
+  }
+  
+
+  namespace  {
+    class RegistryProcessor {
+    }
+  }
+  
+
+  namespace  {
+    class RegistryProcessor {
+    }
+  }
+  
+
+  namespace  {
+    class RegistryProcessor {
+    }
+  }
+  
+
+  namespace  {
+    class _BuildScript_ {
+    }
+  }
+  
+
+  namespace  {
+    class _BuildScript_ {
+    }
+  }
+  
+
+  namespace  {
+    class _BuildScript_ {
+    }
+  }
+  
+
+  namespace  {
+    class _BuildScript_ {
+    }
+  }
+  
+
+  namespace  {
+    class _BuildScript_ {
+    }
+  }
+  
+
+  namespace  {
+    class _BuildScript_ {
+    }
+  }
+  
+
+  namespace  {
+    class _BuildScript_ {
+    }
+  }
+  
+
+  namespace  {
+    class _BuildScript_ {
+    }
+  }
+  
+
+  namespace  {
+    class _BuildScript_ {
+    }
+  }
+  
+
+  namespace  {
+    class _BuildScript_ {
+    }
+  }
+  
+
+  namespace  {
+    class _BuildScript_ {
+    }
+  }
+  
+
+  namespace  {
+    class _BuildScript_ {
+    }
+  }
+  
+
+  namespace  {
+    class _BuildScript_ {
+    }
+  }
+  
+
+  namespace  {
+    class _BuildScript_ {
+    }
+  }
+  
+
+  namespace  {
+    class _BuildScript_ {
+    }
+  }
+  
+
+  namespace  {
+    class _BuildScript_ {
+    }
+  }
+  
+
+  namespace  {
+    class _BuildScript_ {
+    }
+  }
+  
+
+  namespace  {
+    class _BuildScript_ {
+    }
+  }
+  
+
+  namespace  {
+    class _BuildScript_ {
+    }
+  }
+  
+
+  namespace  {
+    class _BuildScript_ {
+    }
+  }
+  
+
+  namespace  {
+    class _BuildScript_ {
+    }
+  }
+  
+
+  namespace  {
+    class _BuildScript_ {
+    }
+  }
+  
+
+  namespace  {
+    class _BuildScript_ {
+    }
+  }
+  
+
+  namespace  {
+    class _BuildScript_ {
+    }
+  }
+  
+
+  namespace  {
+    class _BuildScript_ {
+    }
+  }
+  
+
+  namespace  {
+    class _BuildScript_ {
+    }
+  }
+  
+
+  namespace  {
+    class _BuildScript_ {
+    }
+  }
+  
+
+  namespace  {
+    class _BuildScript_ {
+    }
+  }
+  
+
+  namespace  {
+    class _BuildScript_ {
+    }
+  }
+  
+
+  namespace  {
+    class _BuildScript_ {
+    }
+  }
+  
+
+  namespace  {
+    class _BuildScript_ {
+    }
+  }
+  
+
+  namespace  {
+    class _BuildScript_ {
+    }
+  }
+  
+
+  namespace  {
+    class _BuildScript_ {
+    }
+  }
+  
+
+  namespace  {
+    class _BuildScript_ {
+    }
+  }
+  
+
+  namespace  {
+    class _BuildScript_ {
+    }
+  }
+  
+
+  namespace  {
+    class _BuildScript_ {
+    }
+  }
+  
+
+  namespace  {
+    class _BuildScript_ {
+    }
+  }
+  
+
+  namespace  {
+    class build_ca1jql94kudunzc1mksp8zba8 {
+    }
+  }
+  
+
+  namespace  {
+    class build_ca1jql94kudunzc1mksp8zba8 {
+    }
+  }
+  
+
+  namespace  {
+    class build_ca1jql94kudunzc1mksp8zba8 {
+    }
+  }
+  
+
+  namespace  {
+    class build_ca1jql94kudunzc1mksp8zba8 {
+    }
+  }
+  
+
+  namespace  {
+    class build_ca1jql94kudunzc1mksp8zba8 {
+    }
+  }
+  
+
+  namespace  {
+    class build_ca1jql94kudunzc1mksp8zba8 {
+    }
+  }
+  
+
+  namespace  {
+    class build_ca1jql94kudunzc1mksp8zba8 {
+    }
+  }
+  
+
+  namespace  {
+    class build_ca1jql94kudunzc1mksp8zba8 {
+    }
+  }
+  
+
+  namespace  {
+    class build_ca1jql94kudunzc1mksp8zba8 {
+    }
+  }
+  
+
+  namespace  {
+    class build_ca1jql94kudunzc1mksp8zba8 {
+    }
+  }
+  
+
+  namespace  {
+    class build_ca1jql94kudunzc1mksp8zba8 {
+    }
+  }
+  
+
+  namespace  {
+    class build_ca1jql94kudunzc1mksp8zba8 {
+    }
+  }
+  
+
+  namespace  {
+    class build_dtkyzh4y5fxpdhfx0it0z6z7p {
+    }
+  }
+  
+
+  namespace  {
+    class build_dtkyzh4y5fxpdhfx0it0z6z7p {
+    }
+  }
+  
+
+  namespace  {
+    class build_dtkyzh4y5fxpdhfx0it0z6z7p {
+    }
+  }
+  
+
+  namespace  {
+    class build_dtkyzh4y5fxpdhfx0it0z6z7p {
+    }
+  }
+  
+
+  namespace  {
+    class build_dtkyzh4y5fxpdhfx0it0z6z7p {
+    }
+  }
+  
+
+  namespace  {
+    class build_dtkyzh4y5fxpdhfx0it0z6z7p {
+    }
+  }
+  
+
+  namespace  {
+    class build_dtkyzh4y5fxpdhfx0it0z6z7p {
+    }
+  }
+  
+
+  namespace  {
+    class build_dtkyzh4y5fxpdhfx0it0z6z7p {
+    }
+  }
+  
+
+  namespace  {
+    class build_dtkyzh4y5fxpdhfx0it0z6z7p {
+    }
+  }
+  
+
+  namespace  {
+    class build_dtkyzh4y5fxpdhfx0it0z6z7p {
+    }
+  }
+  
+
+  namespace  {
+    class build_dtkyzh4y5fxpdhfx0it0z6z7p {
+    }
+  }
+  
+
+  namespace  {
+    class ijinit_69wkxukq2783qcfyzg8kyghpk {
+    }
+  }
+  
+
+  namespace  {
+    class ijinit_69wkxukq2783qcfyzg8kyghpk {
+    }
+  }
+  
+
+  namespace  {
+    class ijinit_69wkxukq2783qcfyzg8kyghpk {
+    }
+  }
+  
+
+  namespace  {
+    class ijinit_69wkxukq2783qcfyzg8kyghpk {
+    }
+  }
+  
+
+  namespace  {
+    class ijmapper_ww5l2emypvznl95ipb6l238e {
+    }
+  }
+  
+
+  namespace  {
+    class ijmapper_ww5l2emypvznl95ipb6l238e {
+    }
+  }
+  
+
+  namespace  {
+    class ijtestinit_d538jaajx5a7lkcsnvebd8nn {
+    }
+  }
+  
+
+  namespace  {
+    class ijtestinit_d538jaajx5a7lkcsnvebd8nn {
+    }
+  }
+  
+
+  namespace  {
+    class settings_ddfutw1xffxdr5xjz4m2v7exn {
+    }
+  }
+  
+
+  namespace  {
+    class settings_ddfutw1xffxdr5xjz4m2v7exn {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling10_5hkseynx299u6w5ensuv7c37j {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling10_5hkseynx299u6w5ensuv7c37j {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling1117_3ylr53dlkefnfl56w98srxwuy {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling1117_3ylr53dlkefnfl56w98srxwuy {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling11_94h8lb4q5h6mt6cv6faygv3ms {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling11_94h8lb4q5h6mt6cv6faygv3ms {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling1364_8vpm32ch0sb98d1dj118cvn76 {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling1364_8vpm32ch0sb98d1dj118cvn76 {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling1744_4xmm1py01zrimpv83gcc04ymw {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling1744_4xmm1py01zrimpv83gcc04ymw {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling1833_b9ra3qxikqxadt5hl0qzcp4sq {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling1833_b9ra3qxikqxadt5hl0qzcp4sq {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling1915_1xmv01ikjalcdkjf7r7zpq6b1 {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling1915_1xmv01ikjalcdkjf7r7zpq6b1 {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling1937_7t5z0vg1hr51yiev2afl5dsri {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling1937_7t5z0vg1hr51yiev2afl5dsri {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling1_96d7rx6nsywloocp582bw5hh2 {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling1_96d7rx6nsywloocp582bw5hh2 {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling1_96d7rx6nsywloocp582bw5hh2 {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling1_96d7rx6nsywloocp582bw5hh2 {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling224_7v7nqjjcekmz2hkp2gfif7z5f {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling224_7v7nqjjcekmz2hkp2gfif7z5f {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling2316_6jvdqfj4kunxqjga1gqt5tg42 {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling2316_6jvdqfj4kunxqjga1gqt5tg42 {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling2449_4g11mb79k691lorilk7s944h6 {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling2449_4g11mb79k691lorilk7s944h6 {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling2854_2krruktofbtm1rfnqcl1hs008 {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling2854_2krruktofbtm1rfnqcl1hs008 {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling290_7046iqvjjslvcmnltho7o4n2g {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling290_7046iqvjjslvcmnltho7o4n2g {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling2_c9f016f07w9ymgxevsp6aqfa3 {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling2_c9f016f07w9ymgxevsp6aqfa3 {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling2_c9f016f07w9ymgxevsp6aqfa3 {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling2_c9f016f07w9ymgxevsp6aqfa3 {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling3078_9266o4hwdpcovvzzqi0yysciq {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling3078_9266o4hwdpcovvzzqi0yysciq {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling3190_92cht9j4grcsu2bob2snavig3 {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling3190_92cht9j4grcsu2bob2snavig3 {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling3_c209gc8gqy1txr9afevhsfpk2 {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling3_c209gc8gqy1txr9afevhsfpk2 {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling4_7ysjjg5w975dzeruc3phrhd4w {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling4_7ysjjg5w975dzeruc3phrhd4w {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling595_a2shdhqjbw9no78dzt9gelnee {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling595_a2shdhqjbw9no78dzt9gelnee {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling5_a3q8ypzgetpbdnhjdreqlnui9 {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling5_a3q8ypzgetpbdnhjdreqlnui9 {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling608_b1kc8r8rurbmpqd3kjhzphk71 {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling608_b1kc8r8rurbmpqd3kjhzphk71 {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling6_40j1vz9jbdlhbuvf4icjhy6jt {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling6_40j1vz9jbdlhbuvf4icjhy6jt {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling7_wzns30mvp5tl6v33mszv94f9 {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling7_wzns30mvp5tl6v33mszv94f9 {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling8_3a68dwrx5b348almqj4tf9ro8 {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling8_3a68dwrx5b348almqj4tf9ro8 {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling9_1lkfv4qx0gvx4gg83nim96gkw {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling9_1lkfv4qx0gvx4gg83nim96gkw {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling_202alcsx7h811sh43spbc25a0 {
+    }
+  }
+  
+
+  namespace  {
+    class sync_studio_tooling_202alcsx7h811sh43spbc25a0 {
+    }
+  }
+  
+
+  JetGradlePlugin .up.|> groovy.lang.GroovyObject
+  JetGradlePlugin .up.|> org.gradle.api.Plugin<org.gradle.api.invocation.Gradle>
+  JetGradlePlugin .up.|> groovy.lang.GroovyObject
+  JetGradlePlugin .up.|> org.gradle.api.Plugin<org.gradle.api.invocation.Gradle>
+  JetGradlePlugin .up.|> groovy.lang.GroovyObject
+  JetGradlePlugin .up.|> org.gradle.api.Plugin<org.gradle.api.invocation.Gradle>
+  JetGradlePlugin .up.|> groovy.lang.GroovyObject
+  JetGradlePlugin .up.|> org.gradle.api.Plugin<org.gradle.api.invocation.Gradle>
+  RegistryProcessor .up.|> groovy.lang.GroovyObject
+  RegistryProcessor .up.|> org.gradle.api.ProjectEvaluationListener
+  RegistryProcessor .up.|> groovy.lang.GroovyObject
+  RegistryProcessor .up.|> org.gradle.api.ProjectEvaluationListener
+  RegistryProcessor .up.|> org.gradle.internal.scripts.ScriptOrigin
+  RegistryProcessor .up.|> groovy.lang.GroovyObject
+  RegistryProcessor .up.|> org.gradle.api.ProjectEvaluationListener
+  RegistryProcessor .up.|> groovy.lang.GroovyObject
+  RegistryProcessor .up.|> org.gradle.api.ProjectEvaluationListener
+  build_ca1jql94kudunzc1mksp8zba8 .up.|> org.gradle.internal.scripts.ScriptOrigin
+  build_ca1jql94kudunzc1mksp8zba8 .up.|> org.gradle.internal.scripts.ScriptOrigin
+  build_ca1jql94kudunzc1mksp8zba8 .up.|> org.gradle.internal.scripts.ScriptOrigin
+  build_ca1jql94kudunzc1mksp8zba8 .up.|> org.gradle.internal.scripts.ScriptOrigin
+  build_ca1jql94kudunzc1mksp8zba8 .up.|> org.gradle.internal.scripts.ScriptOrigin
+  build_ca1jql94kudunzc1mksp8zba8 .up.|> org.gradle.internal.scripts.ScriptOrigin
+  build_ca1jql94kudunzc1mksp8zba8 .up.|> org.gradle.internal.scripts.ScriptOrigin
+  build_dtkyzh4y5fxpdhfx0it0z6z7p .up.|> org.gradle.internal.scripts.ScriptOrigin
+  build_dtkyzh4y5fxpdhfx0it0z6z7p .up.|> org.gradle.internal.scripts.ScriptOrigin
+  ijinit_69wkxukq2783qcfyzg8kyghpk .up.|> org.gradle.internal.scripts.ScriptOrigin
+  ijinit_69wkxukq2783qcfyzg8kyghpk .up.|> org.gradle.internal.scripts.ScriptOrigin
+  ijmapper_ww5l2emypvznl95ipb6l238e .up.|> org.gradle.internal.scripts.ScriptOrigin
+  ijtestinit_d538jaajx5a7lkcsnvebd8nn .up.|> org.gradle.internal.scripts.ScriptOrigin
+  settings_ddfutw1xffxdr5xjz4m2v7exn .up.|> org.gradle.internal.scripts.ScriptOrigin
+  sync_studio_tooling1117_3ylr53dlkefnfl56w98srxwuy .up.|> org.gradle.internal.scripts.ScriptOrigin
+  sync_studio_tooling1117_3ylr53dlkefnfl56w98srxwuy .up.|> org.gradle.internal.scripts.ScriptOrigin
+  sync_studio_tooling1364_8vpm32ch0sb98d1dj118cvn76 .up.|> org.gradle.internal.scripts.ScriptOrigin
+  sync_studio_tooling1364_8vpm32ch0sb98d1dj118cvn76 .up.|> org.gradle.internal.scripts.ScriptOrigin
+  sync_studio_tooling1833_b9ra3qxikqxadt5hl0qzcp4sq .up.|> org.gradle.internal.scripts.ScriptOrigin
+  sync_studio_tooling1833_b9ra3qxikqxadt5hl0qzcp4sq .up.|> org.gradle.internal.scripts.ScriptOrigin
+  sync_studio_tooling1_96d7rx6nsywloocp582bw5hh2 .up.|> org.gradle.internal.scripts.ScriptOrigin
+  sync_studio_tooling1_96d7rx6nsywloocp582bw5hh2 .up.|> org.gradle.internal.scripts.ScriptOrigin
+  sync_studio_tooling2316_6jvdqfj4kunxqjga1gqt5tg42 .up.|> org.gradle.internal.scripts.ScriptOrigin
+  sync_studio_tooling2316_6jvdqfj4kunxqjga1gqt5tg42 .up.|> org.gradle.internal.scripts.ScriptOrigin
+  sync_studio_tooling290_7046iqvjjslvcmnltho7o4n2g .up.|> org.gradle.internal.scripts.ScriptOrigin
+  sync_studio_tooling290_7046iqvjjslvcmnltho7o4n2g .up.|> org.gradle.internal.scripts.ScriptOrigin
+  sync_studio_tooling2_c9f016f07w9ymgxevsp6aqfa3 .up.|> org.gradle.internal.scripts.ScriptOrigin
+  sync_studio_tooling2_c9f016f07w9ymgxevsp6aqfa3 .up.|> org.gradle.internal.scripts.ScriptOrigin
+  sync_studio_tooling3190_92cht9j4grcsu2bob2snavig3 .up.|> org.gradle.internal.scripts.ScriptOrigin
+  sync_studio_tooling3190_92cht9j4grcsu2bob2snavig3 .up.|> org.gradle.internal.scripts.ScriptOrigin
+  sync_studio_tooling5_a3q8ypzgetpbdnhjdreqlnui9 .up.|> org.gradle.internal.scripts.ScriptOrigin
+  sync_studio_tooling5_a3q8ypzgetpbdnhjdreqlnui9 .up.|> org.gradle.internal.scripts.ScriptOrigin
+  sync_studio_tooling608_b1kc8r8rurbmpqd3kjhzphk71 .up.|> org.gradle.internal.scripts.ScriptOrigin
+  sync_studio_tooling608_b1kc8r8rurbmpqd3kjhzphk71 .up.|> org.gradle.internal.scripts.ScriptOrigin
+  sync_studio_tooling_202alcsx7h811sh43spbc25a0 .up.|> org.gradle.internal.scripts.ScriptOrigin
+  sync_studio_tooling_202alcsx7h811sh43spbc25a0 .up.|> org.gradle.internal.scripts.ScriptOrigin
+
+
+right footer
+
+
+PlantUML diagram generated by SketchIt! (https://bitbucket.org/pmesmeur/sketch.it)
+For more information about this tool, please contact philippe.mesmeur@gmail.com
+endfooter
+
+@enduml
